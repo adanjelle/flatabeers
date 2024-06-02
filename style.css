@@ -41,10 +41,11 @@ html, body {
   font-size: 24px;
   border: dotted;
   text-align: center;
+  background-color: aqua;
 }
 
 input[type="submit"], button {
-  background-color: rgb(49, 109, 179);
+  background-color: rgb(88, 206, 25);
   color: white;
   font-size: 18px;
   border-radius: 6px;
@@ -58,4 +59,20 @@ input[type="text"] {
 #image{
   width: 300px;
   height: 300px;
+}
+.h1{
+  color:aqua
+}
+.buttons{
+  color: greenyellow;
+  text-align: center;
+  font-size: 50px;
+  font-family:fantasy;
+  border-radius: 0;
+}
+#vote-count{
+  color: blue;
+}
+.aden{
+  color:green;
 }
